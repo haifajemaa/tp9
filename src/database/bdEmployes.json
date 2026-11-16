@@ -1,0 +1,33 @@
+{
+  "employes": [
+    {
+      "id": "efr6",
+      "matricule": "M589",
+      "nom": "Manel Mhamdi",
+      "affiliation": {
+        "fonction": "Technicien",
+        "departement": "TI"
+      }
+    },
+    {
+      "id": "l5osfJduN60",
+      "matricule": "M145",
+      "nom": "Mourad ",
+      "affiliation": {
+        "poste": "Directeur",
+        "departement": "Finance"
+      },
+      "diplomes": [
+        {
+          "intitule": "Licence",
+          "annee": 2015
+        },
+        {
+          "intitule": "Master",
+          "annee": 2017
+        }
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

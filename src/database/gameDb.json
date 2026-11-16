@@ -1,0 +1,116 @@
+{
+  "games": [
+    {
+      "id": "oEeLwGMIszE",
+      "name": "Monopoly",
+      "price": 30,
+      "madeIn": "Tunisie",
+      "category": "Jeux de société",
+      "isNew": false,
+      "shops": [
+        "Tunis",
+        "Sousse"
+      ]
+    },
+    {
+      "id": "fEnLdZnBD5M",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "_6iwyVQD2aI",
+      "name": "haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "sxZGgv1PqII",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "-jRrO8VaWkY",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "IvvsfXSJLdQ",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "BTviwGWYYc0",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "CWK_ZuMaoGA",
+      "name": "Haifa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "mwOAPSTNgnI",
+      "name": "aaaa",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "vvcqSDjYIqg",
+      "name": "JJ",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "id": "D-SlCsY8p34",
+      "name": "",
+      "price": 0,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": []
+    },
+    {
+      "name": "Haifa",
+      "price": 200,
+      "madeIn": "Tunisie",
+      "category": "Puzzle",
+      "isNew": true,
+      "shops": [],
+      "id": "zHPcEolbRIA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
